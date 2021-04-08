@@ -1,4 +1,7 @@
-# AN-webhooks
+# AN-webhooks-AWS
+
+### **[Deprecated - now using [AN-webhooks-GCP](https://github.com/SURJBayArea/AN-webhooks-GCP) instead]**
+
 Serverless endpoint for Action Network webhooks.
 
 When a new SURJ Bay Area member fills out the Intro Meeting Commitment form and expresses interest in joining one or more committees,
